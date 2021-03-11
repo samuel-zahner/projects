@@ -1,2 +1,2 @@
-# projects
-These projects are from CS 211:Computer Architecture at Rutgers University
+# Projects
+These projects are a combination of school and personal projects
